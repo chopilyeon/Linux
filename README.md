@@ -16,7 +16,7 @@ apache는 web server의 한 종류입니다. http protocol로 통신하며 80포
 
 tomcat은 was(web application server)의 한 종류입니다. 저희가 만든 war file을 deploy하고 관리할 수 있도록 gui환경들을 제공해줍니다.<br>
 
-<img src="Screen Shot 2022-05-03 at 1.23.03 PM"/><br>
+<img src="Screen Shot 2022-05-03 at 1.23.03 PM.png"/><br>
                                                      
                                                      
 ##ubuntu에 web과 was 연동하기 영상                                                   
