@@ -1,4 +1,4 @@
-#####Linux에 web과 was 연동 
+### Linux에 web과 was 연동 
 
 
 
@@ -6,7 +6,7 @@ ubuntu에 APACHE(WEB)과 TOMCAT(WAS)를 연동할 것입니다.<br>
 
 우선 가상머신 위에 ubuntu iso를 이용해 서버를 설치합니다. 그러면 한 os 내에서 여러개의 os를 사용할 수 있게 됩니다. ubuntu는 linux의 일종입니다. gui환경도 제공해주며 서버이며 가장 널리 쓰입니다.<br>
 
-####1) web과 was의 개념<br>
+### 1) web과 was의 개념<br>
 
 web은 웹페이지의 줄임말로 다른 인터넷 상의 문서와 서로 연결할 수 있게 해주는 강조된(highlighted) 글자나 그림 등이 있다는 것이 특징입니다.<br>
 
@@ -19,13 +19,13 @@ tomcat은 was(web application server)의 한 종류입니다. 저희가 만든 w
 <img src="Screen Shot 2022-05-03 at 1.23.03 PM.png"/><br>
                                                      
                                                      
-##ubuntu에 web과 was 연동하기 영상                                                   
+## ubuntu에 web과 was 연동하기 영상                                                   
                                                      
 
 <iframe width="651" height="366" src="https://www.youtube.com/embed/VrJsIHXNq5o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-####2) weblogic 
+### 2) weblogic 
 
 
 <img src="weblogic.jpg"/><br>
@@ -41,14 +41,14 @@ web server로부터 명령을 받아 was로 전달하게 됩니다.<br>
 
 
 
-##web logic을 이용해 was를 관리하는 영상입니다.
+## web logic을 이용해 was를 관리하는 영상입니다.
 
 <iframe width="651" height="366" src="https://www.youtube.com/embed/URzTJj--QsM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
 
-####3) google cloud 
+### 3) google cloud 
 
 
 IaaS는 인터넷을 통해 서버와 스토리지 등 데이터센터 자원을 빌려 쓸 수 있는 서비스를 말합니다. 
@@ -61,7 +61,7 @@ PaaS는 소프트웨어 서비스를 개발할 때 필요한 플랫폼을 제공
 
 구글 클라우드 네이버 클라우드 모두 SaaS에 속하게 됩니다 
 
-##google cloud를 이용해 web과 was를 설치해 서로 연동하는 영상입니다 
+## google cloud를 이용해 web과 was를 설치해 서로 연동하는 영상입니다 
 
 <iframe width="651" height="366" src="https://www.youtube.com/embed/VMMAVo4nr30" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
